@@ -1,0 +1,11 @@
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.deps.json
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.runtimeconfig.json
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.runtimeconfig.dev.json
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.dll
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.pdb
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.AssemblyInfo.cs
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.dll
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.pdb
+C:\Users\kittt\source\repos\GenricCollections\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.csprojAssemblyReference.cache
